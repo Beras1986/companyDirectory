@@ -1,0 +1,14 @@
+.btn-color {
+    background-color: cornflowerblue;
+    border: none;
+}
+
+body {
+    background-color: dimgray;
+}
+
+.modal-content {
+    position: relative;
+    max-height: 800px;
+    overflow: scroll;
+}
